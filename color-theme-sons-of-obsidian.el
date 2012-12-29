@@ -6,7 +6,7 @@
   (interactive)
   (color-theme-install
    '(color-theme-sons-of-obsidian
-      ((background-color . "#222")
+      ((background-color . "#22282A")
       (background-mode . dark)
       (border-color . "#1a1a1a")
       (cursor-color . "white")
@@ -14,7 +14,7 @@
       (mouse-color . "white"))
      (default ((t (:background "#333" :foreground "#ddd"))))
      (fringe ((t (:background "#1a1a1a"))))
-     (mode-line ((t (:foreground "#eeeeec" :background "#555753"))))
+     (mode-line ((t (:foreground "#eeeec" :background "#575757"))))
      (region ((t (:background "#575757"))))
      (font-lock-builtin-face ((t (:foreground "#afc8e4"))))
      (font-lock-constant-face ((t (:foreground "#eeeeec"))))
