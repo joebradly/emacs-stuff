@@ -20,7 +20,7 @@
      (font-lock-constant-face ((t (:foreground "#eeeeec"))))
      (font-lock-comment-face ((t (:foreground "#7ab847"))))
      (font-lock-doc-string-face ((t (:foreground "#9b859d"))))
-     (font-lock-function-name-face ((t (:foreground "#ffffff"))))
+     (font-lock-function-name-face ((t (:foreground "#F5DA81"))))
      (font-lock-keyword-face ((t (:foreground "#e08d00"))))
      (font-lock-string-face ((t (:foreground "#58ACFA"))))
      (font-lock-type-face ((t (:foreground "#ff8080"))))
