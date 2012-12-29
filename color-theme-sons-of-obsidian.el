@@ -22,7 +22,7 @@
      (font-lock-doc-string-face ((t (:foreground "#9b859d"))))
      (font-lock-function-name-face ((t (:foreground "#ffffff"))))
      (font-lock-keyword-face ((t (:foreground "#e08d00"))))
-     (font-lock-string-face ((t (:foreground "#0080FF"))))
+     (font-lock-string-face ((t (:foreground "#58ACFA"))))
      (font-lock-type-face ((t (:foreground "#ff8080"))))
      (font-lock-reference-face ((t (:foreground "#8b98ab"))))
      (font-lock-variable-name-face ((t (:foreground "#eeeeec"))))
